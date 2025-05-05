@@ -1,0 +1,28 @@
+Crypto_Yak_System_V1.1/
+│
+├── src/                         ← 主程式碼資料夾
+│   ├── train.py
+│   ├── predict_future.py
+│   ├── auto_train.py
+│   ├── auto_cleanup.py
+│   ├── yak_gui.py
+│   └── ...
+│
+├── utils/                       ← 技術指標與API模組
+│   ├── indicators.py
+│   ├── binance_api.py
+│   └── telegram_notify.py
+│
+├── models/                      ← 儲存每個幣種的模型 .pkl
+│   ├── BTCUSDT_1h_model.pkl
+│   └── ...
+│
+├── logs/                        ← 訓練過程與評估報告
+│   ├── BTCUSDT_1h_train_log.txt
+│   └── ...
+│
+├── symbols.txt                 ← 幣種輪播清單（可自訂）
+├── .env                        ← Telegram 與特徵控制設定
+├── auto_train_and_cleanup.bat ← 合併自動訓練＋清理任務
+├── auto_train_task.xml        ← 任務排程 XML（可匯入）
+└── yak_設定助手.bat           ← GUI 啟動器

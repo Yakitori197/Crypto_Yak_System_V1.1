@@ -1,0 +1,8 @@
+[2025-05-03 12:49:07] ❌ 預測錯誤：BTCUSDT 1h - ❌ 找不到模型：models/BTCUSDT_1h_model.pkl
+[2025-05-03 12:50:15] ❌ 預測錯誤：BTCUSDT 1h - "None of [Index(['RSI', 'MACD', 'BB_upper', 'BB_lower', 'BB_width'], dtype='object')] are in the [columns]"
+[2025-05-03 12:50:27] ❌ 預測錯誤：BTCUSDT 1h - "None of [Index(['RSI', 'MACD', 'BB_upper', 'BB_lower', 'BB_width'], dtype='object')] are in the [columns]"
+[2025-05-03 12:50:27] ❌ 預測錯誤：BTCUSDT 4h - "None of [Index(['RSI', 'MACD', 'BB_upper', 'BB_lower', 'BB_width'], dtype='object')] are in the [columns]"
+[2025-05-03 12:50:27] ❌ 預測錯誤：ETHUSDT 1h - "None of [Index(['RSI', 'MACD', 'BB_upper', 'BB_lower', 'BB_width'], dtype='object')] are in the [columns]"
+[2025-05-03 12:50:27] ❌ 預測錯誤：ETHUSDT 4h - "None of [Index(['RSI', 'MACD', 'BB_upper', 'BB_lower', 'BB_width'], dtype='object')] are in the [columns]"
+[2025-05-03 12:50:27] ❌ 預測錯誤：SOLUSDT 1h - "None of [Index(['RSI', 'MACD', 'BB_upper', 'BB_lower', 'BB_width'], dtype='object')] are in the [columns]"
+[2025-05-03 12:50:27] ❌ 預測錯誤：SOLUSDT 4h - "None of [Index(['RSI', 'MACD', 'BB_upper', 'BB_lower', 'BB_width'], dtype='object')] are in the [columns]"
