@@ -1,5 +1,5 @@
 
-# 🐮 Crypto_Yak_System_V1.0.1
+#  Crypto_Yak_System_V1.0
 
 > 機器學習加密貨幣預測系統，支援 RSI、MACD、Bollinger Band 指標、三分類預測、自選幣種與 Telegram 中文通知。
 
